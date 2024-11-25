@@ -37,7 +37,7 @@ const skillsData = [
         icon: <SlNote className='text-4xl text-primary'></SlNote>,
         link:"#",
         description:
-        "hi hi hawash",
+        "hi hi marah",
         aosDelay:"700",
 
     },
