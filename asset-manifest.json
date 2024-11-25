@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BeyondLimits/static/css/main.7d35aaab.css",
-    "main.js": "/BeyondLimits/static/js/main.159e3e6a.js",
+    "main.js": "/BeyondLimits/static/js/main.eaff5418.js",
     "static/media/team.jpg": "/BeyondLimits/static/media/team.3777378cc3eff324dccf.jpg",
     "static/media/Logo.jpg": "/BeyondLimits/static/media/Logo.d5d27021fba8e7767377.jpg",
     "index.html": "/BeyondLimits/index.html",
     "main.7d35aaab.css.map": "/BeyondLimits/static/css/main.7d35aaab.css.map",
-    "main.159e3e6a.js.map": "/BeyondLimits/static/js/main.159e3e6a.js.map"
+    "main.eaff5418.js.map": "/BeyondLimits/static/js/main.eaff5418.js.map"
   },
   "entrypoints": [
     "static/css/main.7d35aaab.css",
-    "static/js/main.159e3e6a.js"
+    "static/js/main.eaff5418.js"
   ]
 }
